@@ -1,0 +1,5 @@
+langchain==0.2.14
+langchain_openai==0.1.22
+pdf2image==1.17.0
+streamlit==1.38.0
+tqdm==4.66.5
