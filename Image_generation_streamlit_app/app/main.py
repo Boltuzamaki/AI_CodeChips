@@ -2,7 +2,6 @@ import os
 
 import streamlit as st
 from auto1111sdk import StableDiffusionPipeline
-from PIL import Image
 
 st.set_page_config(page_title="Stable Diffusion Image Generator")
 
